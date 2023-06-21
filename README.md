@@ -1,7 +1,6 @@
 <h2> Hi, i'm ihsan 👋✨ </h2>
 
-- Entrepreneur
-- Mobile Developer
+- Mobile Engineer
 <hr>
 
 <h2> Contact with me on </h2>
