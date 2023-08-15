@@ -1,6 +1,6 @@
 ## Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> this is Ihsan!
 
-<h6>A mobile engineer who focuses on building high-quality mobile apps using 👉 <img src="https://cdn.simpleicons.org/react" width="20px" height="20px"> React Native.</h6>
+<h6>A mobile engineer who focuses on building high-quality mobile apps using 👉 <img src="https://cdn.simpleicons.org/react" width="20px" height="20px"></h6>
 <h6>Enjoys building with Typescript and Javascript 👨‍💻</h6>
 <br />
 
