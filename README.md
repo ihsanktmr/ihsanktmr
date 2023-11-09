@@ -7,12 +7,5 @@ I'm a software engineer with a strong emphasis on mobile app development, and I'
   <img src="https://cdn.simpleicons.org/apple" width="20px" height="20px">
   <img src="https://cdn.simpleicons.org/android" width="20px" height="20px">
 </h6>
-
-
-
-
-
-![readme Quotes](https://quotes-github-readme.vercel.app/api?theme=nord&&quote="What&nbsp;you&nbsp;do&nbsp;is&nbsp;what&nbsp;matters,<br/>&nbsp;not&nbsp;what&nbsp;you&nbsp;think,<br/>&nbsp;or&nbsp;plan.&&author=*.*)
-
 <hr>
 
