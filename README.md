@@ -1,6 +1,6 @@
 ## Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi! 👋 I'm a passionate software engineer 🧑‍💻 with a lifelong love for computers and software. Since I was young, I've been fascinated by the world of technology.
+I'm a passionate software engineer 🧑‍💻 with a lifelong love for computers and software. Since I was young, I've been fascinated by the world of technology.
 
 For the past six years, I've been diving into mobile app development, specializing in React Native, allowing me to create top-notch mobile apps. At the same time, I've kept my skills balanced by delving into React web development. I can handle both mobile and web applications, giving me a well-rounded toolkit in the ever-changing tech scene.
 
