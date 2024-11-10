@@ -2,8 +2,6 @@
 
 Hi! 👋 I'm a passionate react native engineer 🧑‍💻 with a lifelong love for computers and software. Since I was young, I've been fascinated by the world of technology.
 
-Throughout the past six years, my journey has revolved around mobile app development, particularly in React Native. 
-
 I get a kick out of problem-solving, and it's at the core of how I approach software development. Finding neat solutions and continuously improving the quality of my work is what keep me going. I'm dedicated to architecting modern software solutions, prioritizing not only maintainability and robustness but also infusing innovation and scalability into every line of code.
 
 I'm always ready for new challenges, excited to push my limits, and contribute to the dynamically transforming tech world. 🚀
